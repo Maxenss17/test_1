@@ -14,6 +14,7 @@ public class Carte {
     
     private  MaEnum.Couleur couleur;
     private MaEnum.Valeur valeur;
+    private double sous;
     
 
     public Carte( MaEnum.Couleur couleur, MaEnum.Valeur valeur) {
